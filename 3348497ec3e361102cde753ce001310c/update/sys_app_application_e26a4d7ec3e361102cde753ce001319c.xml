@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Personal wish list application</description>
+        <device_type>browser</device_type>
+        <hint>Personal wish list application</hint>
+        <name/>
+        <order/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>amarjit.ram</sys_created_by>
+        <sys_created_on>2023-06-24 06:13:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e26a4d7ec3e361102cde753ce001319c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wish List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_1061889_wish_lis">3348497ec3e361102cde753ce001310c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">3348497ec3e361102cde753ce001310c</sys_scope>
+        <sys_update_name>sys_app_application_e26a4d7ec3e361102cde753ce001319c</sys_update_name>
+        <sys_updated_by>amarjit.ram</sys_updated_by>
+        <sys_updated_on>2023-06-24 06:13:33</sys_updated_on>
+        <title>Wish List</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
